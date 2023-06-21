@@ -1,0 +1,7 @@
+@import "reset.scss";
+@mixin fonts($ff, $fw, $fs, $lh) {
+	font-family: $ff;
+	font-weight: $fw;
+	font-size: $fz;
+	line-height: $lh;
+}
